@@ -6,4 +6,4 @@ asdasd
 ## local development
 
 1.open html index in browser <br>
-2.2nd test after renaming folder
+2.test after renaming folder
